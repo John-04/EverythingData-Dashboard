@@ -51,4 +51,4 @@ This project involved the development of high-performance ad dashboard templates
 4. Customize views based on user needs.
 
 ## Contact
-For any inquiries or collaboration, feel free to reach out via [LinkedIn](your-profile-link) or [Email](your-email@example.com).
+For any inquiries or collaboration, feel free to reach out via [LinkedIn](linkedin.com/in/john-fashola-67a149228/) or [Email](fashjohn04@gmail.com).
